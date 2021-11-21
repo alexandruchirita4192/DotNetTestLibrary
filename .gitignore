@@ -1,0 +1,7 @@
+
+*.dll
+*.pdb
+DotNetTestLibrary/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttributes.cs
+DotNetTestLibrary/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs
+DotNetTestLibrary/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+DotNetTestLibrary/obj/Debug/DotNetTestLibrary.csproj.AssemblyReference.cache
